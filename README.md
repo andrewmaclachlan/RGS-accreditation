@@ -3,7 +3,11 @@
 <img src="general_images/casa_logo.jpg" width="100" >
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6553427.svg)](https://doi.org/10.5281/zenodo.6553427)[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6553427.svg)](https://doi.org/10.5281/zenodo.6553427)[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+## Citation
+
+MacLachlan, Andrew, Palominos, Nicolas, 2022. Royal Geographic Society Accreditation, The Bartlett Centre for Advanced Spatial Analysis, UCL. https://doi.org/10.5281/zenodo.6553428
 
 ## Description
 
