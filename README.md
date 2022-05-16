@@ -2,6 +2,7 @@
 
 <img src="general_images/casa_logo.jpg" width="100" >
 
+[![DOI](https://zenodo.org/badge/492794093.svg)](https://zenodo.org/badge/latestdoi/492794093)
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
 
 ## Description
