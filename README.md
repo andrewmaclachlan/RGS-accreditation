@@ -2,8 +2,8 @@
 
 <img src="general_images/casa_logo.jpg" width="100" >
 
-[![DOI](https://zenodo.org/badge/492794093.svg)](https://zenodo.org/badge/latestdoi/492794093)
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6553427.svg)](https://doi.org/10.5281/zenodo.6553427)[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
 
 ## Description
 
@@ -13,7 +13,7 @@ The accreditation was successfully granted to the MSc in Smart Cities and Analyt
 
 ## Folders and files within the repository
 
-The files here are:
+The folders / files here are:
 
 ### 2021-2022
 
